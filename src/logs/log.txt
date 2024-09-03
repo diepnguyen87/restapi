@@ -1,0 +1,4 @@
+********************************************************************************
+Date/Time: 9/2/2024
+Exception Info: {"status":500,"statusText":"Internal Server Error","message":"ENOENT: no such file or directory, open 'D:\\hackernews-node\\src\\asset\\pies2.json'","error":{"errno":-4058,"call":"open","code":"INTERNAL_SERVER_ERROR","message":"ENOENT: no such file or directory, open 'D:\\hackernews-node\\src\\asset\\pies2.json'"},"requestInfo":{"hostname":"localhost","path":"/api/"}}
+********************************************************************************
